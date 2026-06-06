@@ -27,6 +27,12 @@ Interactive dashboard analyzing 8,807 Netflix titles to uncover content trends, 
 - `Netflix-Catalog-Analysis.pbix` - Power BI source file
 - `dashboard_preview.png` - Dashboard screenshot
 
+- ## 📊 Dataset
+- **Source:** Netflix Movies and TV Shows - Kaggle
+- **Total Records:** 8,807 titles
+- **Period:** 1942 - 2021
+- **Fields:** title, type, director, cast, country, date_added, release_year, rating, duration, listed_in
+
 ## 📊 Dataset
 Netflix Movies and TV Shows dataset from Kaggle
 
